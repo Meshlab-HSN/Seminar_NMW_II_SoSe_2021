@@ -8,7 +8,7 @@ Here you find the list of available routing protocols.
 | Routing Protocol			| Description			          	| References	         | Team Members
 |:---------------------:|:---------------------------:|:--------------------:|:--------------------:
 | BMX6 | Mesh Routing Protocol | https://github.com/bmx-routing/bmx6 | |
-| Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | |
+| Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph |
 | Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer
 | OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler|
 | OLSR v2 | Optimized Link State Routing Protocol | http://www.olsr.org | |
