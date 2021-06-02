@@ -19,3 +19,12 @@ Here you find the list of available routing protocols.
 | DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 15.6.|
 | AODV |Ad hoc On-Demand Distance Vector  | https://datatracker.ietf.org/doc/html/rfc3561| | 8.6. oder 15.6.|
 
+**Important points/questions to consider while presenting a routing protocol
+* What is the cool thing about your routing protocol ?
+* Classification into links state / distance-path vector / something special
+* ground truth / first publication / RFC ?
+* What kind of networks are a typical use case for your routing protocol ?
+* What is the routing metric about, how is it calculated? (e.g. hop-count, throughput, packet errors...)
+* How well does your routing protocol scale ? (can you find a plot of scaling analysis - number of routers vs. memory usage/cpu usage/network load)
+* Is there a public, open-source codebase and/or proprietary ? (e.g. Github Link ?)
+* Who is the maintainer / Mailing List ? 
