@@ -5,8 +5,8 @@ Here you find the list of available routing protocols.
 **Choose & Commit ... 2 students per group**
 
 
-| Routing Protocol			| Description			          	| References	         | Team Members   | Presentation Date
-|:---------------------:|:---------------------------:|:--------------------:|:--------------:|:-----------:
+| Routing Protocol			| Description			          	| References	         | Team Members   | Presentation Date | public ssh key per user |
+|:---------------------:|:---------------------------:|:--------------------:|:--------------:|:-----------:|:-----------:
 | BMX6 & BMX7 | Mesh Routing Protocol | https://github.com/bmx-routing/ | Alexander, Moritz, Jonas | 22.6. 14:15 Uhr|
 | Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph | 22.6. 08:15 Uhr|
 | Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer | 15.6.|
