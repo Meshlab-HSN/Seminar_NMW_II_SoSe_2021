@@ -19,7 +19,7 @@ Here you find the list of available routing protocols.
 | DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.|
 | AODV |Ad hoc On-Demand Distance Vector  | https://datatracker.ietf.org/doc/html/rfc3561| | 8.6. oder 15.6.|
 
-**Important points/questions to consider while presenting a routing protocol
+# Important points/questions to consider while presenting a routing protocol
 * What is the cool thing about your routing protocol ?
 * Classification into links state / distance-path vector / something special
 * ground truth / first publication / RFC ?
@@ -28,3 +28,10 @@ Here you find the list of available routing protocols.
 * How well does your routing protocol scale ? (can you find a plot of scaling analysis - number of routers vs. memory usage/cpu usage/network load)
 * Is there a public, open-source codebase and/or proprietary ? (e.g. Github Link ?)
 * Who is the maintainer / Mailing List ? 
+
+# list of public ssh keys to grand OpenWrt VM access
+* Please generate a ssh public/private keypair und post the public key in the list below
+* e.g. in a command line trigger: ```ssh-keygen -t rsa -b 4096```
+
+| Team or Student			| public ssh-key	|
+|:-------------------:|:----------------:
