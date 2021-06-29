@@ -32,7 +32,10 @@ Here you find the list of available routing protocols.
 
 | Team Members   | # OpenWrt VM | Telnet Port | IP/netmask of **br-lan** |
 |:--------------:|:------------:|:-----------:|:----------------:|
-| Alexander, Moritz, Jonas | |
+| **Alexander, Moritz, Jonas** | |||
+|               | 1 | 21040 |  |
+|               | 2 | 21041 |  |
+|               | 3 | 21042 |  |
 | Christin | |
 | **Florian, Andy** | |||
 |               | 1 | 21000 |  |
