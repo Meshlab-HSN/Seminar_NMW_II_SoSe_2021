@@ -5,15 +5,15 @@ Here you find the list of available routing protocols.
 **Choose & Commit ... 2 students per group**
 
 
-| Routing Protocol			| Description			          	| References	         | Team Members   | Presentation Date | OpenWrt Ports
-|:---------------------:|:---------------------------:|:--------------------:|:--------------:|:-----------------:|:--------------:|
-| BMX6 & BMX7 | Mesh Routing Protocol | https://github.com/bmx-routing/ | Alexander, Moritz, Jonas | 22.6. 14:15 Uhr|
-| Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph | 29.6. 14:15 Uhr|
-| Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer | 15.6.| 21000, 21001 ,21002
-| OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler| 15.6.| 21010, 21011, 21012
-| ISIS | Intermediate System to Intermediate System Protocol | https://en.wikipedia.org/wiki/IS-IS| Nico Trapp, Jennifer Haase | 15.6. ??? |
-| DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.| 21030, 21031, 21032
-| no talk| | | Maurice T. | | 21020, 21021, 21022
+| Routing Protocol			| Description			          	| References	         | Team Members   | Presentation Date 
+|:---------------------:|:---------------------------:|:--------------------:|:--------------:|:-----------------:|
+| BMX6 & BMX7 | Mesh Routing Protocol | https://github.com/bmx-routing/ | Alexander, Moritz, Jonas | 22.6. 14:15 Uhr
+| Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph | 29.6. 14:15 Uhr
+| Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer | 15.6.
+| OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler| 15.6.
+| ISIS | Intermediate System to Intermediate System Protocol | https://en.wikipedia.org/wiki/IS-IS| Nico Trapp, Jennifer Haase 
+| DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.
+| no talk| | | Maurice T. | 
 
 # Important points/questions to consider while presenting a routing protocol
 * What is the cool thing about your routing protocol ?
@@ -29,6 +29,28 @@ Here you find the list of available routing protocols.
 * make sure you can connecte to the 3 VMs of your team by ```telnet 170.30.1.1 210XY```
 * check internet connectivity & dns (e.g. ping www.google.de)
 * install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```
+
+| Team Members   | # OpenWrt VM | Telnet Port | IP Adress br-lan |
+|:--------------:|:------------:|:-----------:|:----------------:|
+| Alexander, Moritz, Jonas | |
+| Christin | |
+| **Florian, Andy** | |||
+|               | 1 | 21000 |  |
+|               | 2 | 21001 |  |
+|               | 3 | 21002 |  |
+| **Dinh Huy, Philipp** | |||
+|               | 1 | 21010 |  |
+|               | 2 | 21011 |  |
+|               | 3 | 21012 |  |
+| Nico Trapp, Jennifer Haase |  |
+| **Valerius, Oliver**| |||
+|               | 1 | 21030 |  |
+|               | 2 | 21031 |  |
+|               | 3 | 21032 |  |
+| **Maurice**| |||
+|               | 1 | 21020 |  |
+|               | 2 | 21021 |  |
+|               | 3 | 21022 |  |
 
 
 # list of public ssh keys to grand OpenWrt VM access
