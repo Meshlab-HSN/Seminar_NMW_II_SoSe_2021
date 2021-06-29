@@ -30,7 +30,7 @@ Here you find the list of available routing protocols.
 * check internet connectivity & dns (e.g. ping www.google.de)
 * install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```
 
-| Team Members   | # OpenWrt VM | Telnet Port | IP Adress br-lan |
+| Team Members   | # OpenWrt VM | Telnet Port | IP/netmask of **br-lan** |
 |:--------------:|:------------:|:-----------:|:----------------:|
 | Alexander, Moritz, Jonas | |
 | Christin | |
