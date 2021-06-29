@@ -48,9 +48,9 @@ Here you find the list of available routing protocols.
 |               | 2 | 21031 |  |
 |               | 3 | 21032 |  |
 | **Maurice**| |||
-|               | 1 | 21020 |  |
-|               | 2 | 21021 |  |
-|               | 3 | 21022 |  |
+|               | 1 | 21020 | 172.30.1.9 |
+|               | 2 | 21021 | 172.30.1.10 |
+|               | 3 | 21022 | 172.30.1.11 |
 
 
 # list of public ssh keys to grand OpenWrt VM access
