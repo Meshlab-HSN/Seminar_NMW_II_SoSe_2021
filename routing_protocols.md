@@ -18,6 +18,7 @@ Here you find the list of available routing protocols.
 | LDP | Label Distribution Protocol| https://en.wikipedia.org/wiki/Label_Distribution_Protocol| | 8.6. oder 15.6.|
 | DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.|
 | AODV |Ad hoc On-Demand Distance Vector  | https://datatracker.ietf.org/doc/html/rfc3561| | 8.6. oder 15.6.|
+| no talk| | | Maurice T. | | 21006, 21007, 21008
 
 # Important points/questions to consider while presenting a routing protocol
 * What is the cool thing about your routing protocol ?
