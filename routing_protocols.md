@@ -10,7 +10,7 @@ Here you find the list of available routing protocols.
 | BMX6 & BMX7 | Mesh Routing Protocol | https://github.com/bmx-routing/ | Alexander, Moritz, Jonas | 22.6. 14:15 Uhr|
 | Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph | 29.6. 14:15 Uhr|
 | Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer | 15.6.| 21000, 21001 ,21002
-| OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler| 15.6.| 21003,21004,21005
+| OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler| 15.6.| 21010,21011,21012
 | OLSR v2 | Optimized Link State Routing Protocol | http://www.olsr.org | | 8.6. oder 15.6.|
 | ISIS | Intermediate System to Intermediate System Protocol | https://en.wikipedia.org/wiki/IS-IS| Nico Trapp, Jennifer Haase | 15.6. ??? |
 | VRR | Virtual Ring Routing| https://dl.acm.org/doi/10.1145/1151659.1159954 | | 8.6. oder 15.6.|
@@ -18,7 +18,7 @@ Here you find the list of available routing protocols.
 | LDP | Label Distribution Protocol| https://en.wikipedia.org/wiki/Label_Distribution_Protocol| | 8.6. oder 15.6.|
 | DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.|
 | AODV |Ad hoc On-Demand Distance Vector  | https://datatracker.ietf.org/doc/html/rfc3561| | 8.6. oder 15.6.|
-| no talk| | | Maurice T. | | 21006, 21007, 21008
+| no talk| | | Maurice T. | | 21020, 21021, 21022
 
 # Important points/questions to consider while presenting a routing protocol
 * What is the cool thing about your routing protocol ?
