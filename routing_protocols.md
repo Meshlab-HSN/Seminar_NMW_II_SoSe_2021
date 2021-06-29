@@ -25,6 +25,12 @@ Here you find the list of available routing protocols.
 * Is there a public, open-source codebase and/or proprietary ? (e.g. Github Link ?)
 * Who is the maintainer / Mailing List ? 
 
+# OpenWrt VM playground
+* make sure you can connecte to the 3 VMs of your team by ```telnet 170.30.1.1 210XY```
+* check internet connectivity & dns (e.g. ping www.google.de)
+* install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```
+
+
 # list of public ssh keys to grand OpenWrt VM access
 * Please generate a ssh public/private keypair und post the public key in the list below
 * e.g. in a command line trigger: ```ssh-keygen -t rsa -b 4096```
