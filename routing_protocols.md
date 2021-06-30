@@ -45,9 +45,9 @@ Here you find the list of available routing protocols.
 |               | 2 | 21001 |  |
 |               | 3 | 21002 |  |
 | **Dinh Huy, Philipp** | |||
-|               | 1 | 21010 |  |
-|               | 2 | 21011 |  |
-|               | 3 | 21012 |  |
+|               | 1 | 21010 | 172.30.1.6 |
+|               | 2 | 21011 | 172.30.1.7 |
+|               | 3 | 21012 | 172.30.1.8 |
 | Nico Trapp, Jennifer Haase |  |
 | **Valerius, Oliver**| |||
 |               | 1 | 21030 |  |
