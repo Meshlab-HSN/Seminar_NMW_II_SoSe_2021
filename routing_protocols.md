@@ -28,11 +28,12 @@ Here you find the list of available routing protocols.
 # OpenWrt VM playground
 1. make sure you can connecte to the 3 VMs of your team by ```telnet 170.30.1.1 210XY```
 2. check internet connectivity & dns (e.g. ping www.google.de)
-3. **Let's check ho static routing works**
+3. **Let's check how static routing works**
     1. *add a stactic route entry to your R1 & R3 in such a way, that R1 and R3 use R2 as next hop router*
-    2. *you can use the ip command to add new routing entries*
-4. **Let's try to automate this route setting with a routing protocol**
-    1. *install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```*
+    2. *you can use the ip command to add new routing entries to R1, R2 and R3*
+4. **Let's try to automate this routeing task properly with a routing protocol**
+    1. *install routing protocol OLSR v1: ```opkg update``` and ```opkg install olsrd```*
+    2. *the configuration file of olsrd is /etc/config/olsrd, try to enable olsr routing am R1, R2 and R3*
 
 | Team Members   | # OpenWrt VM | Telnet Port | IP/netmask of **br-lan** |
 |:--------------:|:------------:|:-----------:|:----------------:|
