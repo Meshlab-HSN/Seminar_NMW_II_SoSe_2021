@@ -26,9 +26,13 @@ Here you find the list of available routing protocols.
 * Who is the maintainer / Mailing List ? 
 
 # OpenWrt VM playground
-* make sure you can connecte to the 3 VMs of your team by ```telnet 170.30.1.1 210XY```
-* check internet connectivity & dns (e.g. ping www.google.de)
-* install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```
+1. make sure you can connecte to the 3 VMs of your team by ```telnet 170.30.1.1 210XY```
+2. check internet connectivity & dns (e.g. ping www.google.de)
+3. **Let's check ho static routing works**
+    1. *add a stactic route entry to your R1 & R3 in such a way, that R1 and R3 use R2 as next hop router*
+    2. *you can use the ip command to add new routing entries*
+4. **Let's try to automate this route setting with a routing protocol**
+    1. *install routing protocol OLSR v1: ```opkg update``` und dann ```opkg install olsrd```*
 
 | Team Members   | # OpenWrt VM | Telnet Port | IP/netmask of **br-lan** |
 |:--------------:|:------------:|:-----------:|:----------------:|
