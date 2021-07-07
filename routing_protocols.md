@@ -11,7 +11,7 @@ Here you find the list of available routing protocols.
 | Babel | Mesh Routing Protocol | https://www.irif.fr/~jch/software/babel/ | Christin Rudolph | 29.6. 14:15 Uhr
 | Batman-adv | Mesh Routing Protocol | https://www.open-mesh.org | Florian Wenzel, Andy Hattenhauer | 15.6.
 | OLSR v1 | Optimized Link State Routing Protocol | http://www.olsr.org |Dinh Huy Nguyen  Philipp Büchler| 15.6.
-| ISIS | Intermediate System to Intermediate System Protocol | https://en.wikipedia.org/wiki/IS-IS| Nico Trapp, Jennifer Haase 
+| ISIS | Intermediate System to Intermediate System Protocol | https://en.wikipedia.org/wiki/IS-IS| Nico Trapp, Jennifer Haase | skipped
 | DSR |Dynamic Source Routing | https://en.wikipedia.org/wiki/Dynamic_Source_Routing| Valerius Begau, Oliver Schröder | 22.6.
 | no talk| | | Maurice T. | 
 
